@@ -5,7 +5,8 @@
 - PHP 7.4.2
 - Laravel 7.5.2
 - HTML5
-- BootStrap4.4.1
+- BootStrap 4.4.1
+- MySQL 8.0.19
 
 ## 機能一覧（実装予定の機能も含む）
 - CRUD（保管場所・商品名・数の新規作成、詳細、編集、削除）
