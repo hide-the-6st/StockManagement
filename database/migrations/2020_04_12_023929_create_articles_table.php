@@ -17,6 +17,7 @@ class CreateArticlesTable extends Migration
             $table->increments('id');
             $table->integer('place_id');
             $table->text('article_name');
+            $table->integer('number');
             $table->text('remark')->nullable();
             $table->timestamps();
         });
